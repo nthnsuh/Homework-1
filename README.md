@@ -1,1 +1,1 @@
-# Homework-1
+This repository goes over practicing python for machine learning.
