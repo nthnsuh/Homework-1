@@ -1,1 +1,1 @@
-This repository goes over practicing python for machine learning.
+This repository is a portfolio of work that I have done for my ITP 449 class. From going over the basics of python, visualization, and modeling there was so much covered in this class, and this helped me better understand how to analyze, interpret, and model data.
